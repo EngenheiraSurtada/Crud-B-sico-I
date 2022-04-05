@@ -1,0 +1,38 @@
+  
+.container{
+
+    margin-top: 5%;
+}
+
+
+.container-form{
+   background-color: rgb(204, 219, 253);
+   border-radius: 50px;
+   padding-left: 80px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   box-shadow: 2px 2px 2px 2px;
+
+  /* pura mágica */
+  position: absolute;
+  top: 50%; /* posiciona na metade da tela */
+  margin-top: -250px; /* e retrocede 50 vzs a altura */
+  left: 40%; /* posiciona na metade da tela */
+  margin-left: -100px; /* e retrocede metade da largura */
+
+
+}
+
+
+    
+
+
+
+.row{
+    
+    padding: 10px;
+}
+
+.row, label{
+    width: 100%;
+}
